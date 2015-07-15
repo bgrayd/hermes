@@ -1,0 +1,12 @@
+<system>
+	
+	<program_name>
+		hermes
+	</program_name>
+	<recoengine>
+		cppinprocReco
+	</recoengine>
+</system>
+<gmail>
+	['bgrayd@gmail.com', 'wgd33@msstate.edu']
+</gmail>
